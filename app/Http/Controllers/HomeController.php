@@ -23,7 +23,7 @@ class HomeController extends Controller
      */
     public function index()
     {
-        return view('home');
+        return view('index');
     }
     public function login()
     {
@@ -49,6 +49,10 @@ class HomeController extends Controller
     public function userinfo()
     {
         return view('userinfo');
+    }
+    public function welcome()
+    {
+        return view('welcome');
     }
 }
 
