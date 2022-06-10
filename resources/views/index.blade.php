@@ -161,7 +161,7 @@
                             }'>
                             <div class="product product-2">
                                 <figure class="product-media">
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-1.jpg" alt="Product image" class="product-image">
                                     </a>
 
@@ -179,7 +179,7 @@
                                     <div class="product-cat">
                                         <a href="#">Cameras & Camcorders</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">GoPro - HERO7 Black HD Waterproof Action</a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">GoPro - HERO7 Black HD Waterproof Action</a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         $349.99
                                     </div><!-- End .product-price -->
@@ -195,7 +195,7 @@
                             <div class="product product-2">
                                 <figure class="product-media">
                                     <span class="product-label label-circle label-new">New</span>
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-2.jpg" alt="Product image" class="product-image">
                                         <img src="assets/images/demos/demo-3/products/product-2-2.jpg" alt="Product image" class="product-image-hover">
                                     </a>
@@ -214,7 +214,7 @@
                                     <div class="product-cat">
                                         <a href="#">Smartwatches</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">Apple - Apple Watch Series 3 with White Sport Band</a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">Apple - Apple Watch Series 3 with White Sport Band</a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         $214.99
                                     </div><!-- End .product-price -->
@@ -235,7 +235,7 @@
 
                             <div class="product product-2">
                                 <figure class="product-media">
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-3.jpg" alt="Product image" class="product-image">
                                     </a>
 
@@ -253,7 +253,7 @@
                                     <div class="product-cat">
                                         <a href="#">Laptops</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">Lenovo - 330-15IKBR 15.6"</a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">Lenovo - 330-15IKBR 15.6"</a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         <span class="out-price">$339.99</span>
                                         <span class="out-text">Out of Stock</span>
@@ -269,7 +269,7 @@
 
                             <div class="product product-2">
                                 <figure class="product-media">
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-4.jpg" alt="Product image" class="product-image">
                                     </a>
 
@@ -287,7 +287,7 @@
                                     <div class="product-cat">
                                         <a href="#">Digital Cameras</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">Sony - Alpha a5100 Mirrorless Camera</a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">Sony - Alpha a5100 Mirrorless Camera</a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         $499.99
                                     </div><!-- End .product-price -->
@@ -302,7 +302,7 @@
 
                             <div class="product product-2">
                                 <figure class="product-media">
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-1.jpg" alt="Product image" class="product-image">
                                     </a>
 
@@ -320,7 +320,7 @@
                                     <div class="product-cat">
                                         <a href="#">Cameras & Camcorders</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">GoPro - HERO7 Black HD Waterproof Action</a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">GoPro - HERO7 Black HD Waterproof Action</a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         $349.99
                                     </div><!-- End .product-price -->
@@ -358,7 +358,7 @@
                             }'>
                             <div class="product product-2">
                                 <figure class="product-media">
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-4.jpg" alt="Product image" class="product-image">
                                     </a>
 
@@ -376,7 +376,7 @@
                                     <div class="product-cat">
                                         <a href="#">Digital Cameras</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">Sony - Alpha a5100 Mirrorless Camera</a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">Sony - Alpha a5100 Mirrorless Camera</a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         $499.99
                                     </div><!-- End .product-price -->
@@ -391,7 +391,7 @@
 
                             <div class="product product-2">
                                 <figure class="product-media">
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-1.jpg" alt="Product image" class="product-image">
                                     </a>
 
@@ -409,7 +409,7 @@
                                     <div class="product-cat">
                                         <a href="#">Cameras & Camcorders</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">GoPro - HERO7 Black HD Waterproof Action</a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">GoPro - HERO7 Black HD Waterproof Action</a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         $349.99
                                     </div><!-- End .product-price -->
@@ -424,7 +424,7 @@
 
                             <div class="product product-2">
                                 <figure class="product-media">
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-3.jpg" alt="Product image" class="product-image">
                                     </a>
 
@@ -442,7 +442,7 @@
                                     <div class="product-cat">
                                         <a href="#">Laptops</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">Lenovo - 330-15IKBR 15.6"</a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">Lenovo - 330-15IKBR 15.6"</a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         <span class="out-price">$339.99</span>
                                         <span class="out-text">Out of Stock</span>
@@ -459,7 +459,7 @@
                             <div class="product product-2">
                                 <figure class="product-media">
                                     <span class="product-label label-circle label-new">New</span>
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-2.jpg" alt="Product image" class="product-image">
                                         <img src="assets/images/demos/demo-3/products/product-2-2.jpg" alt="Product image" class="product-image-hover">
                                     </a>
@@ -478,7 +478,7 @@
                                     <div class="product-cat">
                                         <a href="#">Smartwatches</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">Apple - Apple Watch Series 3 with White Sport Band</a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">Apple - Apple Watch Series 3 with White Sport Band</a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         $214.99
                                     </div><!-- End .product-price -->
@@ -522,7 +522,7 @@
                             }'>
                             <div class="product product-2">
                                 <figure class="product-media">
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-3.jpg" alt="Product image" class="product-image">
                                     </a>
 
@@ -540,7 +540,7 @@
                                     <div class="product-cat">
                                         <a href="#">Laptops</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">Lenovo - 330-15IKBR 15.6"</a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">Lenovo - 330-15IKBR 15.6"</a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         <span class="out-price">$339.99</span>
                                         <span class="out-text">Out of Stock</span>
@@ -556,7 +556,7 @@
 
                             <div class="product product-2">
                                 <figure class="product-media">
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-1.jpg" alt="Product image" class="product-image">
                                     </a>
 
@@ -574,7 +574,7 @@
                                     <div class="product-cat">
                                         <a href="#">Cameras & Camcorders</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">GoPro - HERO7 Black HD Waterproof Action</a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">GoPro - HERO7 Black HD Waterproof Action</a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         $349.99
                                     </div><!-- End .product-price -->
@@ -589,7 +589,7 @@
 
                             <div class="product product-2">
                                 <figure class="product-media">
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-4.jpg" alt="Product image" class="product-image">
                                     </a>
 
@@ -607,7 +607,7 @@
                                     <div class="product-cat">
                                         <a href="#">Digital Cameras</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">Sony - Alpha a5100 Mirrorless Camera</a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">Sony - Alpha a5100 Mirrorless Camera</a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         $499.99
                                     </div><!-- End .product-price -->
@@ -623,7 +623,7 @@
                             <div class="product product-2">
                                 <figure class="product-media">
                                     <span class="product-label label-circle label-new">New</span>
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-2.jpg" alt="Product image" class="product-image">
                                         <img src="assets/images/demos/demo-3/products/product-2-2.jpg" alt="Product image" class="product-image-hover">
                                     </a>
@@ -642,7 +642,7 @@
                                     <div class="product-cat">
                                         <a href="#">Smartwatches</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">Apple - Apple Watch Series 3 with White Sport Band</a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">Apple - Apple Watch Series 3 with White Sport Band</a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         $214.99
                                     </div><!-- End .product-price -->
@@ -663,7 +663,7 @@
 
                             <div class="product product-2">
                                 <figure class="product-media">
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-1.jpg" alt="Product image" class="product-image">
                                     </a>
 
@@ -681,7 +681,7 @@
                                     <div class="product-cat">
                                         <a href="#">Cameras & Camcorders</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">GoPro - HERO7 Black HD Waterproof Action</a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">GoPro - HERO7 Black HD Waterproof Action</a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         $349.99
                                     </div><!-- End .product-price -->
@@ -737,14 +737,14 @@
                                 </div><!-- End .deal-top -->
 
                                 <div class="deal-content">
-                                    <h3 class="product-title"><a href="product.html">Home Smart Speaker with  Google Assistant</a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">Home Smart Speaker with  Google Assistant</a></h3><!-- End .product-title -->
 
                                     <div class="product-price">
                                         <span class="new-price">$129.00</span>
                                         <span class="old-price">Was $150.99</span>
                                     </div><!-- End .product-price -->
 
-                                    <a href="product.html" class="btn btn-link"><span>Shop Now</span><i class="icon-long-arrow-right"></i></a>
+                                    <a href="product" class="btn btn-link"><span>Shop Now</span><i class="icon-long-arrow-right"></i></a>
                                 </div><!-- End .deal-content -->
 
                                 <div class="deal-bottom">
@@ -760,7 +760,7 @@
                                             <figure class="product-media">
                                                 <span class="product-label label-circle label-top">Top</span>
                                                 <span class="product-label label-circle label-sale">Sale</span>
-                                                <a href="product.html">
+                                                <a href="product">
                                                     <img src="assets/images/demos/demo-3/products/product-5.jpg" alt="Product image" class="product-image">
                                                 </a>
 
@@ -778,7 +778,7 @@
                                                 <div class="product-cat">
                                                     <a href="#">Digital Cameras</a>
                                                 </div><!-- End .product-cat -->
-                                                <h3 class="product-title"><a href="product.html">Canon - EOS 5D Mark IV DSLR  Camera</a></h3><!-- End .product-title -->
+                                                <h3 class="product-title"><a href="product">Canon - EOS 5D Mark IV DSLR  Camera</a></h3><!-- End .product-title -->
                                                 <div class="product-price">
                                                     <span class="new-price">$3,599.99</span>
                                                     <span class="old-price">Was $3,999.99</span>
@@ -797,7 +797,7 @@
                                         <div class="product product-2">
                                             <figure class="product-media">
                                                 <span class="product-label label-circle label-sale">Sale</span>
-                                                <a href="product.html">
+                                                <a href="product">
                                                     <img src="assets/images/demos/demo-3/products/product-6.jpg" alt="Product image" class="product-image">
                                                 </a>
 
@@ -815,7 +815,7 @@
                                                 <div class="product-cat">
                                                     <a href="#">Computers & Tablets</a>
                                                 </div><!-- End .product-cat -->
-                                                <h3 class="product-title"><a href="product.html">Apple - Smart Keyboard Folio  for 11-inch iPad Pro</a></h3><!-- End .product-title -->
+                                                <h3 class="product-title"><a href="product">Apple - Smart Keyboard Folio  for 11-inch iPad Pro</a></h3><!-- End .product-title -->
                                                 <div class="product-price">
                                                     <span class="new-price">$179.00</span>
                                                     <span class="old-price">Was $200.99</span>
@@ -961,7 +961,7 @@
                                     <div class="product product-2">
                                         <figure class="product-media">
                                             <span class="product-label label-circle label-top">Top</span>
-                                            <a href="product.html">
+                                            <a href="product">
                                                 <img src="assets/images/demos/demo-3/products/product-7.jpg" alt="Product image" class="product-image">
                                             </a>
 
@@ -979,7 +979,7 @@
                                             <div class="product-cat">
                                                 <a href="#">Headphones</a>
                                             </div><!-- End .product-cat -->
-                                            <h3 class="product-title"><a href="product.html">Bose - SoundSport  wireless headphones</a></h3><!-- End .product-title -->
+                                            <h3 class="product-title"><a href="product">Bose - SoundSport  wireless headphones</a></h3><!-- End .product-title -->
                                             <div class="product-price">
                                                 $199.99
                                             </div><!-- End .product-price -->
@@ -1000,7 +1000,7 @@
 
                                     <div class="product product-2">
                                         <figure class="product-media">
-                                            <a href="product.html">
+                                            <a href="product">
                                                 <img src="assets/images/demos/demo-3/products/product-8.jpg" alt="Product image" class="product-image">
                                             </a>
 
@@ -1018,7 +1018,7 @@
                                             <div class="product-cat">
                                                 <a href="#">Video Games</a>
                                             </div><!-- End .product-cat -->
-                                            <h3 class="product-title"><a href="product.html">Microsoft - Refurbish Xbox One S 500GB</a></h3><!-- End .product-title -->
+                                            <h3 class="product-title"><a href="product">Microsoft - Refurbish Xbox One S 500GB</a></h3><!-- End .product-title -->
                                             <div class="product-price">
                                                 $279.99
                                             </div><!-- End .product-price -->
@@ -1034,7 +1034,7 @@
                                     <div class="product product-2">
                                         <figure class="product-media">
                                             <span class="product-label label-circle label-new">New</span>
-                                            <a href="product.html">
+                                            <a href="product">
                                                 <img src="assets/images/demos/demo-3/products/product-9.jpg" alt="Product image" class="product-image">
                                             </a>
 
@@ -1052,7 +1052,7 @@
                                             <div class="product-cat">
                                                 <a href="#">Smartwatches</a>
                                             </div><!-- End .product-cat -->
-                                            <h3 class="product-title"><a href="product.html">Apple Watch Series 4 Gold Aluminum Case</a></h3><!-- End .product-title -->
+                                            <h3 class="product-title"><a href="product">Apple Watch Series 4 Gold Aluminum Case</a></h3><!-- End .product-title -->
                                             <div class="product-price">
                                                 $499.99
                                             </div><!-- End .product-price -->
@@ -1075,7 +1075,7 @@
                                         <figure class="product-media">
                                             <span class="product-label label-circle label-top">Top</span>
                                             <span class="product-label label-circle label-sale">Sale</span>
-                                            <a href="product.html">
+                                            <a href="product">
                                                 <img src="assets/images/demos/demo-3/products/product-10.jpg" alt="Product image" class="product-image">
                                             </a>
 
@@ -1093,7 +1093,7 @@
                                             <div class="product-cat">
                                                 <a href="#">TV & Home Theater</a>
                                             </div><!-- End .product-cat -->
-                                            <h3 class="product-title"><a href="product.html">Sony - Class LED 2160p Smart 4K Ultra HD</a></h3><!-- End .product-title -->
+                                            <h3 class="product-title"><a href="product">Sony - Class LED 2160p Smart 4K Ultra HD</a></h3><!-- End .product-title -->
                                             <div class="product-price">
                                                 <span class="new-price">$1,699.99</span>
                                                 <span class="old-price">Was $1,999.99</span>
@@ -1110,7 +1110,7 @@
                                     <div class="product product-2">
                                         <figure class="product-media">
                                             <span class="product-label label-circle label-top">Top</span>
-                                            <a href="product.html">
+                                            <a href="product">
                                                 <img src="assets/images/demos/demo-3/products/product-15.jpg" alt="Product image" class="product-image">
                                             </a>
 
@@ -1128,7 +1128,7 @@
                                             <div class="product-cat">
                                                 <a href="#">TV & Home Theater</a>
                                             </div><!-- End .product-cat -->
-                                            <h3 class="product-title"><a href="product.html">Samsung - 55" Class  LED 2160p Smart</a></h3><!-- End .product-title -->
+                                            <h3 class="product-title"><a href="product">Samsung - 55" Class  LED 2160p Smart</a></h3><!-- End .product-title -->
                                             <div class="product-price">
                                                 $899.99
                                             </div><!-- End .product-price -->
@@ -1144,7 +1144,7 @@
                                     <div class="product product-2">
                                         <figure class="product-media">
                                             <span class="product-label label-circle label-top">Top</span>
-                                            <a href="product.html">
+                                            <a href="product">
                                                 <img src="assets/images/demos/demo-3/products/product-11.jpg" alt="Product image" class="product-image">
                                             </a>
 
@@ -1162,7 +1162,7 @@
                                             <div class="product-cat">
                                                 <a href="#">Laptops</a>
                                             </div><!-- End .product-cat -->
-                                            <h3 class="product-title"><a href="product.html">MacBook Pro 13" Display, i5</a></h3><!-- End .product-title -->
+                                            <h3 class="product-title"><a href="product">MacBook Pro 13" Display, i5</a></h3><!-- End .product-title -->
                                             <div class="product-price">
                                                 $1,199.99
                                             </div><!-- End .product-price -->
@@ -1201,7 +1201,7 @@
                                     <div class="product product-2">
                                         <figure class="product-media">
                                             <span class="product-label label-circle label-new">New</span>
-                                            <a href="product.html">
+                                            <a href="product">
                                                 <img src="assets/images/demos/demo-3/products/product-13.jpg" alt="Product image" class="product-image">
                                             </a>
 
@@ -1219,7 +1219,7 @@
                                             <div class="product-cat">
                                                 <a href="#">Tablets</a>
                                             </div><!-- End .product-cat -->
-                                            <h3 class="product-title"><a href="product.html">Apple - 11 Inch iPad Pro  with Wi-Fi 256GB </a></h3><!-- End .product-title -->
+                                            <h3 class="product-title"><a href="product">Apple - 11 Inch iPad Pro  with Wi-Fi 256GB </a></h3><!-- End .product-title -->
                                             <div class="product-price">
                                                 $899.99
                                             </div><!-- End .product-price -->
@@ -1240,7 +1240,7 @@
 
                                     <div class="product product-2">
                                         <figure class="product-media">
-                                            <a href="product.html">
+                                            <a href="product">
                                                 <img src="assets/images/demos/demo-3/products/product-12.jpg" alt="Product image" class="product-image">
                                             </a>
 
@@ -1258,7 +1258,7 @@
                                             <div class="product-cat">
                                                 <a href="#">Audio</a>
                                             </div><!-- End .product-cat -->
-                                            <h3 class="product-title"><a href="product.html">Bose - SoundLink Bluetooth Speaker</a></h3><!-- End .product-title -->
+                                            <h3 class="product-title"><a href="product">Bose - SoundLink Bluetooth Speaker</a></h3><!-- End .product-title -->
                                             <div class="product-price">
                                                 $79.99
                                             </div><!-- End .product-price -->
@@ -1275,7 +1275,7 @@
                                         <figure class="product-media">
                                             <span class="product-label label-circle label-top">Top</span>
                                             <span class="product-label label-circle label-sale">Sale</span>
-                                            <a href="product.html">
+                                            <a href="product">
                                                 <img src="assets/images/demos/demo-3/products/product-14.jpg" alt="Product image" class="product-image">
                                             </a>
 
@@ -1293,7 +1293,7 @@
                                             <div class="product-cat">
                                                 <a href="#">Cell Phone</a>
                                             </div><!-- End .product-cat -->
-                                            <h3 class="product-title"><a href="product.html">Google - Pixel 3 XL  128GB</a></h3><!-- End .product-title -->
+                                            <h3 class="product-title"><a href="product">Google - Pixel 3 XL  128GB</a></h3><!-- End .product-title -->
                                             <div class="product-price">
                                                 <span class="new-price">$35.41</span>
                                                 <span class="old-price">Was $41.67</span>
@@ -1316,7 +1316,7 @@
                                     <div class="product product-2">
                                         <figure class="product-media">
                                             <span class="product-label label-circle label-top">Top</span>
-                                            <a href="product.html">
+                                            <a href="product">
                                                 <img src="assets/images/demos/demo-3/products/product-15.jpg" alt="Product image" class="product-image">
                                             </a>
 
@@ -1334,7 +1334,7 @@
                                             <div class="product-cat">
                                                 <a href="#">TV & Home Theater</a>
                                             </div><!-- End .product-cat -->
-                                            <h3 class="product-title"><a href="product.html">Samsung - 55" Class  LED 2160p Smart</a></h3><!-- End .product-title -->
+                                            <h3 class="product-title"><a href="product">Samsung - 55" Class  LED 2160p Smart</a></h3><!-- End .product-title -->
                                             <div class="product-price">
                                                 $899.99
                                             </div><!-- End .product-price -->
@@ -1350,7 +1350,7 @@
                                     <div class="product product-2">
                                         <figure class="product-media">
                                             <span class="product-label label-circle label-top">Top</span>
-                                            <a href="product.html">
+                                            <a href="product">
                                                 <img src="assets/images/demos/demo-3/products/product-11.jpg" alt="Product image" class="product-image">
                                             </a>
 
@@ -1368,7 +1368,7 @@
                                             <div class="product-cat">
                                                 <a href="#">Laptops</a>
                                             </div><!-- End .product-cat -->
-                                            <h3 class="product-title"><a href="product.html">MacBook Pro 13" Display, i5</a></h3><!-- End .product-title -->
+                                            <h3 class="product-title"><a href="product">MacBook Pro 13" Display, i5</a></h3><!-- End .product-title -->
                                             <div class="product-price">
                                                 $1,199.99
                                             </div><!-- End .product-price -->
@@ -1407,7 +1407,7 @@
                                     <div class="product product-2">
                                         <figure class="product-media">
                                             <span class="product-label label-circle label-top">Top</span>
-                                            <a href="product.html">
+                                            <a href="product">
                                                 <img src="assets/images/demos/demo-3/products/product-15.jpg" alt="Product image" class="product-image">
                                             </a>
 
@@ -1425,7 +1425,7 @@
                                             <div class="product-cat">
                                                 <a href="#">TV & Home Theater</a>
                                             </div><!-- End .product-cat -->
-                                            <h3 class="product-title"><a href="product.html">Samsung - 55" Class  LED 2160p Smart</a></h3><!-- End .product-title -->
+                                            <h3 class="product-title"><a href="product">Samsung - 55" Class  LED 2160p Smart</a></h3><!-- End .product-title -->
                                             <div class="product-price">
                                                 $899.99
                                             </div><!-- End .product-price -->
@@ -1441,7 +1441,7 @@
                                     <div class="product product-2">
                                         <figure class="product-media">
                                             <span class="product-label label-circle label-top">Top</span>
-                                            <a href="product.html">
+                                            <a href="product">
                                                 <img src="assets/images/demos/demo-3/products/product-11.jpg" alt="Product image" class="product-image">
                                             </a>
 
@@ -1459,7 +1459,7 @@
                                             <div class="product-cat">
                                                 <a href="#">Laptops</a>
                                             </div><!-- End .product-cat -->
-                                            <h3 class="product-title"><a href="product.html">MacBook Pro 13" Display, i5</a></h3><!-- End .product-title -->
+                                            <h3 class="product-title"><a href="product">MacBook Pro 13" Display, i5</a></h3><!-- End .product-title -->
                                             <div class="product-price">
                                                 $1,199.99
                                             </div><!-- End .product-price -->
@@ -1475,7 +1475,7 @@
                                     <div class="product product-2">
                                         <figure class="product-media">
                                             <span class="product-label label-circle label-new">New</span>
-                                            <a href="product.html">
+                                            <a href="product">
                                                 <img src="assets/images/demos/demo-3/products/product-13.jpg" alt="Product image" class="product-image">
                                             </a>
 
@@ -1493,7 +1493,7 @@
                                             <div class="product-cat">
                                                 <a href="#">Tablets</a>
                                             </div><!-- End .product-cat -->
-                                            <h3 class="product-title"><a href="product.html">Apple - 11 Inch iPad Pro  with Wi-Fi 256GB </a></h3><!-- End .product-title -->
+                                            <h3 class="product-title"><a href="product">Apple - 11 Inch iPad Pro  with Wi-Fi 256GB </a></h3><!-- End .product-title -->
                                             <div class="product-price">
                                                 $899.99
                                             </div><!-- End .product-price -->
@@ -1514,7 +1514,7 @@
 
                                     <div class="product product-2">
                                         <figure class="product-media">
-                                            <a href="product.html">
+                                            <a href="product">
                                                 <img src="assets/images/demos/demo-3/products/product-12.jpg" alt="Product image" class="product-image">
                                             </a>
 
@@ -1532,7 +1532,7 @@
                                             <div class="product-cat">
                                                 <a href="#">Audio</a>
                                             </div><!-- End .product-cat -->
-                                            <h3 class="product-title"><a href="product.html">Bose - SoundLink Bluetooth Speaker</a></h3><!-- End .product-title -->
+                                            <h3 class="product-title"><a href="product">Bose - SoundLink Bluetooth Speaker</a></h3><!-- End .product-title -->
                                             <div class="product-price">
                                                 $79.99
                                             </div><!-- End .product-price -->
@@ -1549,7 +1549,7 @@
                                         <figure class="product-media">
                                             <span class="product-label label-circle label-top">Top</span>
                                             <span class="product-label label-circle label-sale">Sale</span>
-                                            <a href="product.html">
+                                            <a href="product">
                                                 <img src="assets/images/demos/demo-3/products/product-14.jpg" alt="Product image" class="product-image">
                                             </a>
 
@@ -1567,7 +1567,7 @@
                                             <div class="product-cat">
                                                 <a href="#">Cell Phone</a>
                                             </div><!-- End .product-cat -->
-                                            <h3 class="product-title"><a href="product.html">Google - Pixel 3 XL  128GB</a></h3><!-- End .product-title -->
+                                            <h3 class="product-title"><a href="product">Google - Pixel 3 XL  128GB</a></h3><!-- End .product-title -->
                                             <div class="product-price">
                                                 <span class="new-price">$35.41</span>
                                                 <span class="old-price">Was $41.67</span>
@@ -1613,7 +1613,7 @@
                                     <div class="product product-2">
                                         <figure class="product-media">
                                             <span class="product-label label-circle label-top">Top</span>
-                                            <a href="product.html">
+                                            <a href="product">
                                                 <img src="assets/images/demos/demo-3/products/product-11.jpg" alt="Product image" class="product-image">
                                             </a>
 
@@ -1631,7 +1631,7 @@
                                             <div class="product-cat">
                                                 <a href="#">Laptops</a>
                                             </div><!-- End .product-cat -->
-                                            <h3 class="product-title"><a href="product.html">MacBook Pro 13" Display, i5</a></h3><!-- End .product-title -->
+                                            <h3 class="product-title"><a href="product">MacBook Pro 13" Display, i5</a></h3><!-- End .product-title -->
                                             <div class="product-price">
                                                 $1,199.99
                                             </div><!-- End .product-price -->
@@ -1646,7 +1646,7 @@
 
                                     <div class="product product-2">
                                         <figure class="product-media">
-                                            <a href="product.html">
+                                            <a href="product">
                                                 <img src="assets/images/demos/demo-3/products/product-12.jpg" alt="Product image" class="product-image">
                                             </a>
 
@@ -1664,7 +1664,7 @@
                                             <div class="product-cat">
                                                 <a href="#">Audio</a>
                                             </div><!-- End .product-cat -->
-                                            <h3 class="product-title"><a href="product.html">Bose - SoundLink Bluetooth Speaker</a></h3><!-- End .product-title -->
+                                            <h3 class="product-title"><a href="product">Bose - SoundLink Bluetooth Speaker</a></h3><!-- End .product-title -->
                                             <div class="product-price">
                                                 $79.99
                                             </div><!-- End .product-price -->
@@ -1680,7 +1680,7 @@
                                     <div class="product product-2">
                                         <figure class="product-media">
                                             <span class="product-label label-circle label-new">New</span>
-                                            <a href="product.html">
+                                            <a href="product">
                                                 <img src="assets/images/demos/demo-3/products/product-13.jpg" alt="Product image" class="product-image">
                                             </a>
 
@@ -1698,7 +1698,7 @@
                                             <div class="product-cat">
                                                 <a href="#">Tablets</a>
                                             </div><!-- End .product-cat -->
-                                            <h3 class="product-title"><a href="product.html">Apple - 11 Inch iPad Pro  with Wi-Fi 256GB </a></h3><!-- End .product-title -->
+                                            <h3 class="product-title"><a href="product">Apple - 11 Inch iPad Pro  with Wi-Fi 256GB </a></h3><!-- End .product-title -->
                                             <div class="product-price">
                                                 $899.99
                                             </div><!-- End .product-price -->
@@ -1720,7 +1720,7 @@
                                     <div class="product product-2">
                                         <figure class="product-media">
                                             <span class="product-label label-circle label-top">Top</span>
-                                            <a href="product.html">
+                                            <a href="product">
                                                 <img src="assets/images/demos/demo-3/products/product-15.jpg" alt="Product image" class="product-image">
                                             </a>
 
@@ -1738,7 +1738,7 @@
                                             <div class="product-cat">
                                                 <a href="#">TV & Home Theater</a>
                                             </div><!-- End .product-cat -->
-                                            <h3 class="product-title"><a href="product.html">Samsung - 55" Class  LED 2160p Smart</a></h3><!-- End .product-title -->
+                                            <h3 class="product-title"><a href="product">Samsung - 55" Class  LED 2160p Smart</a></h3><!-- End .product-title -->
                                             <div class="product-price">
                                                 $899.99
                                             </div><!-- End .product-price -->
@@ -1754,7 +1754,7 @@
                                     <div class="product product-2">
                                         <figure class="product-media">
                                             <span class="product-label label-circle label-top">Top</span>
-                                            <a href="product.html">
+                                            <a href="product">
                                                 <img src="assets/images/demos/demo-3/products/product-11.jpg" alt="Product image" class="product-image">
                                             </a>
 
@@ -1772,7 +1772,7 @@
                                             <div class="product-cat">
                                                 <a href="#">Laptops</a>
                                             </div><!-- End .product-cat -->
-                                            <h3 class="product-title"><a href="product.html">MacBook Pro 13" Display, i5</a></h3><!-- End .product-title -->
+                                            <h3 class="product-title"><a href="product">MacBook Pro 13" Display, i5</a></h3><!-- End .product-title -->
                                             <div class="product-price">
                                                 $1,199.99
                                             </div><!-- End .product-price -->
@@ -1789,7 +1789,7 @@
                                         <figure class="product-media">
                                             <span class="product-label label-circle label-top">Top</span>
                                             <span class="product-label label-circle label-sale">Sale</span>
-                                            <a href="product.html">
+                                            <a href="product">
                                                 <img src="assets/images/demos/demo-3/products/product-14.jpg" alt="Product image" class="product-image">
                                             </a>
 
@@ -1807,7 +1807,7 @@
                                             <div class="product-cat">
                                                 <a href="#">Cell Phone</a>
                                             </div><!-- End .product-cat -->
-                                            <h3 class="product-title"><a href="product.html">Google - Pixel 3 XL  128GB</a></h3><!-- End .product-title -->
+                                            <h3 class="product-title"><a href="product">Google - Pixel 3 XL  128GB</a></h3><!-- End .product-title -->
                                             <div class="product-price">
                                                 <span class="new-price">$35.41</span>
                                                 <span class="old-price">Was $41.67</span>
@@ -1854,7 +1854,7 @@
                                         <figure class="product-media">
                                             <span class="product-label label-circle label-top">Top</span>
                                             <span class="product-label label-circle label-sale">Sale</span>
-                                            <a href="product.html">
+                                            <a href="product">
                                                 <img src="assets/images/demos/demo-3/products/product-14.jpg" alt="Product image" class="product-image">
                                             </a>
 
@@ -1872,7 +1872,7 @@
                                             <div class="product-cat">
                                                 <a href="#">Cell Phone</a>
                                             </div><!-- End .product-cat -->
-                                            <h3 class="product-title"><a href="product.html">Google - Pixel 3 XL  128GB</a></h3><!-- End .product-title -->
+                                            <h3 class="product-title"><a href="product">Google - Pixel 3 XL  128GB</a></h3><!-- End .product-title -->
                                             <div class="product-price">
                                                 <span class="new-price">$35.41</span>
                                                 <span class="old-price">Was $41.67</span>
@@ -1895,7 +1895,7 @@
                                     <div class="product product-2">
                                         <figure class="product-media">
                                             <span class="product-label label-circle label-top">Top</span>
-                                            <a href="product.html">
+                                            <a href="product">
                                                 <img src="assets/images/demos/demo-3/products/product-11.jpg" alt="Product image" class="product-image">
                                             </a>
 
@@ -1913,7 +1913,7 @@
                                             <div class="product-cat">
                                                 <a href="#">Laptops</a>
                                             </div><!-- End .product-cat -->
-                                            <h3 class="product-title"><a href="product.html">MacBook Pro 13" Display, i5</a></h3><!-- End .product-title -->
+                                            <h3 class="product-title"><a href="product">MacBook Pro 13" Display, i5</a></h3><!-- End .product-title -->
                                             <div class="product-price">
                                                 $1,199.99
                                             </div><!-- End .product-price -->
@@ -1928,7 +1928,7 @@
 
                                     <div class="product product-2">
                                         <figure class="product-media">
-                                            <a href="product.html">
+                                            <a href="product">
                                                 <img src="assets/images/demos/demo-3/products/product-12.jpg" alt="Product image" class="product-image">
                                             </a>
 
@@ -1946,7 +1946,7 @@
                                             <div class="product-cat">
                                                 <a href="#">Audio</a>
                                             </div><!-- End .product-cat -->
-                                            <h3 class="product-title"><a href="product.html">Bose - SoundLink Bluetooth Speaker</a></h3><!-- End .product-title -->
+                                            <h3 class="product-title"><a href="product">Bose - SoundLink Bluetooth Speaker</a></h3><!-- End .product-title -->
                                             <div class="product-price">
                                                 $79.99
                                             </div><!-- End .product-price -->
@@ -1962,7 +1962,7 @@
                                     <div class="product product-2">
                                         <figure class="product-media">
                                             <span class="product-label label-circle label-new">New</span>
-                                            <a href="product.html">
+                                            <a href="product">
                                                 <img src="assets/images/demos/demo-3/products/product-13.jpg" alt="Product image" class="product-image">
                                             </a>
 
@@ -1980,7 +1980,7 @@
                                             <div class="product-cat">
                                                 <a href="#">Tablets</a>
                                             </div><!-- End .product-cat -->
-                                            <h3 class="product-title"><a href="product.html">Apple - 11 Inch iPad Pro  with Wi-Fi 256GB </a></h3><!-- End .product-title -->
+                                            <h3 class="product-title"><a href="product">Apple - 11 Inch iPad Pro  with Wi-Fi 256GB </a></h3><!-- End .product-title -->
                                             <div class="product-price">
                                                 $899.99
                                             </div><!-- End .product-price -->
@@ -2025,7 +2025,7 @@
                                     <div class="product product-2">
                                         <figure class="product-media">
                                             <span class="product-label label-circle label-top">Top</span>
-                                            <a href="product.html">
+                                            <a href="product">
                                                 <img src="assets/images/demos/demo-3/products/product-11.jpg" alt="Product image" class="product-image">
                                             </a>
 
@@ -2043,7 +2043,7 @@
                                             <div class="product-cat">
                                                 <a href="#">Laptops</a>
                                             </div><!-- End .product-cat -->
-                                            <h3 class="product-title"><a href="product.html">MacBook Pro 13" Display, i5</a></h3><!-- End .product-title -->
+                                            <h3 class="product-title"><a href="product">MacBook Pro 13" Display, i5</a></h3><!-- End .product-title -->
                                             <div class="product-price">
                                                 $1,199.99
                                             </div><!-- End .product-price -->
@@ -2059,7 +2059,7 @@
                                     <div class="product product-2">
                                         <figure class="product-media">
                                             <span class="product-label label-circle label-top">Top</span>
-                                            <a href="product.html">
+                                            <a href="product">
                                                 <img src="assets/images/demos/demo-3/products/product-15.jpg" alt="Product image" class="product-image">
                                             </a>
 
@@ -2077,7 +2077,7 @@
                                             <div class="product-cat">
                                                 <a href="#">TV & Home Theater</a>
                                             </div><!-- End .product-cat -->
-                                            <h3 class="product-title"><a href="product.html">Samsung - 55" Class  LED 2160p Smart</a></h3><!-- End .product-title -->
+                                            <h3 class="product-title"><a href="product">Samsung - 55" Class  LED 2160p Smart</a></h3><!-- End .product-title -->
                                             <div class="product-price">
                                                 $899.99
                                             </div><!-- End .product-price -->
@@ -2093,7 +2093,7 @@
                                     <div class="product product-2">
                                         <figure class="product-media">
                                             <span class="product-label label-circle label-top">Top</span>
-                                            <a href="product.html">
+                                            <a href="product">
                                                 <img src="assets/images/demos/demo-3/products/product-11.jpg" alt="Product image" class="product-image">
                                             </a>
 
@@ -2111,7 +2111,7 @@
                                             <div class="product-cat">
                                                 <a href="#">Laptops</a>
                                             </div><!-- End .product-cat -->
-                                            <h3 class="product-title"><a href="product.html">MacBook Pro 13" Display, i5</a></h3><!-- End .product-title -->
+                                            <h3 class="product-title"><a href="product">MacBook Pro 13" Display, i5</a></h3><!-- End .product-title -->
                                             <div class="product-price">
                                                 $1,199.99
                                             </div><!-- End .product-price -->
@@ -2126,7 +2126,7 @@
 
                                     <div class="product product-2">
                                         <figure class="product-media">
-                                            <a href="product.html">
+                                            <a href="product">
                                                 <img src="assets/images/demos/demo-3/products/product-12.jpg" alt="Product image" class="product-image">
                                             </a>
 
@@ -2144,7 +2144,7 @@
                                             <div class="product-cat">
                                                 <a href="#">Audio</a>
                                             </div><!-- End .product-cat -->
-                                            <h3 class="product-title"><a href="product.html">Bose - SoundLink Bluetooth Speaker</a></h3><!-- End .product-title -->
+                                            <h3 class="product-title"><a href="product">Bose - SoundLink Bluetooth Speaker</a></h3><!-- End .product-title -->
                                             <div class="product-price">
                                                 $79.99
                                             </div><!-- End .product-price -->
@@ -2160,7 +2160,7 @@
                                     <div class="product product-2">
                                         <figure class="product-media">
                                             <span class="product-label label-circle label-new">New</span>
-                                            <a href="product.html">
+                                            <a href="product">
                                                 <img src="assets/images/demos/demo-3/products/product-13.jpg" alt="Product image" class="product-image">
                                             </a>
 
@@ -2178,7 +2178,7 @@
                                             <div class="product-cat">
                                                 <a href="#">Tablets</a>
                                             </div><!-- End .product-cat -->
-                                            <h3 class="product-title"><a href="product.html">Apple - 11 Inch iPad Pro  with Wi-Fi 256GB </a></h3><!-- End .product-title -->
+                                            <h3 class="product-title"><a href="product">Apple - 11 Inch iPad Pro  with Wi-Fi 256GB </a></h3><!-- End .product-title -->
                                             <div class="product-price">
                                                 $899.99
                                             </div><!-- End .product-price -->
@@ -2266,7 +2266,7 @@
                             <div class="product product-2">
                                 <figure class="product-media">
                                     <span class="product-label label-circle label-top">Top</span>
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-11.jpg" alt="Product image" class="product-image">
                                     </a>
 
@@ -2284,7 +2284,7 @@
                                     <div class="product-cat">
                                         <a href="#">Laptops</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">MacBook Pro 13" Display, i5</a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">MacBook Pro 13" Display, i5</a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         $1,199.99
                                     </div><!-- End .product-price -->
@@ -2299,7 +2299,7 @@
 
                             <div class="product product-2">
                                 <figure class="product-media">
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-12.jpg" alt="Product image" class="product-image">
                                     </a>
 
@@ -2317,7 +2317,7 @@
                                     <div class="product-cat">
                                         <a href="#">Audio</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">Bose - SoundLink Bluetooth Speaker</a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">Bose - SoundLink Bluetooth Speaker</a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         $79.99
                                     </div><!-- End .product-price -->
@@ -2333,7 +2333,7 @@
                             <div class="product product-2">
                                 <figure class="product-media">
                                     <span class="product-label label-circle label-new">New</span>
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-13.jpg" alt="Product image" class="product-image">
                                     </a>
 
@@ -2351,7 +2351,7 @@
                                     <div class="product-cat">
                                         <a href="#">Tablets</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">Apple - 11 Inch iPad Pro  with Wi-Fi 256GB </a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">Apple - 11 Inch iPad Pro  with Wi-Fi 256GB </a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         $899.99
                                     </div><!-- End .product-price -->
@@ -2374,7 +2374,7 @@
                                 <figure class="product-media">
                                     <span class="product-label label-circle label-top">Top</span>
                                     <span class="product-label label-circle label-sale">Sale</span>
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-14.jpg" alt="Product image" class="product-image">
                                     </a>
 
@@ -2392,7 +2392,7 @@
                                     <div class="product-cat">
                                         <a href="#">Cell Phone</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">Google - Pixel 3 XL  128GB</a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">Google - Pixel 3 XL  128GB</a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         <span class="new-price">$35.41</span>
                                         <span class="old-price">Was $41.67</span>
@@ -2415,7 +2415,7 @@
                             <div class="product product-2">
                                 <figure class="product-media">
                                     <span class="product-label label-circle label-top">Top</span>
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-15.jpg" alt="Product image" class="product-image">
                                     </a>
 
@@ -2433,7 +2433,7 @@
                                     <div class="product-cat">
                                         <a href="#">TV & Home Theater</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">Samsung - 55" Class  LED 2160p Smart</a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">Samsung - 55" Class  LED 2160p Smart</a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         $899.99
                                     </div><!-- End .product-price -->
@@ -2449,7 +2449,7 @@
                             <div class="product product-2">
                                 <figure class="product-media">
                                     <span class="product-label label-circle label-top">Top</span>
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-11.jpg" alt="Product image" class="product-image">
                                     </a>
 
@@ -2467,7 +2467,7 @@
                                     <div class="product-cat">
                                         <a href="#">Laptops</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">MacBook Pro 13" Display, i5</a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">MacBook Pro 13" Display, i5</a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         $1,199.99
                                     </div><!-- End .product-price -->
@@ -2509,7 +2509,7 @@
                             <div class="product product-2">
                                 <figure class="product-media">
                                     <span class="product-label label-circle label-new">New</span>
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-13.jpg" alt="Product image" class="product-image">
                                     </a>
 
@@ -2527,7 +2527,7 @@
                                     <div class="product-cat">
                                         <a href="#">Tablets</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">Apple - 11 Inch iPad Pro  with Wi-Fi 256GB </a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">Apple - 11 Inch iPad Pro  with Wi-Fi 256GB </a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         $899.99
                                     </div><!-- End .product-price -->
@@ -2548,7 +2548,7 @@
 
                             <div class="product product-2">
                                 <figure class="product-media">
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-12.jpg" alt="Product image" class="product-image">
                                     </a>
 
@@ -2566,7 +2566,7 @@
                                     <div class="product-cat">
                                         <a href="#">Audio</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">Bose - SoundLink Bluetooth Speaker</a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">Bose - SoundLink Bluetooth Speaker</a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         $79.99
                                     </div><!-- End .product-price -->
@@ -2583,7 +2583,7 @@
                                 <figure class="product-media">
                                     <span class="product-label label-circle label-top">Top</span>
                                     <span class="product-label label-circle label-sale">Sale</span>
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-14.jpg" alt="Product image" class="product-image">
                                     </a>
 
@@ -2601,7 +2601,7 @@
                                     <div class="product-cat">
                                         <a href="#">Cell Phone</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">Google - Pixel 3 XL  128GB</a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">Google - Pixel 3 XL  128GB</a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         <span class="new-price">$35.41</span>
                                         <span class="old-price">Was $41.67</span>
@@ -2624,7 +2624,7 @@
                             <div class="product product-2">
                                 <figure class="product-media">
                                     <span class="product-label label-circle label-top">Top</span>
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-15.jpg" alt="Product image" class="product-image">
                                     </a>
 
@@ -2642,7 +2642,7 @@
                                     <div class="product-cat">
                                         <a href="#">TV & Home Theater</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">Samsung - 55" Class  LED 2160p Smart</a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">Samsung - 55" Class  LED 2160p Smart</a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         $899.99
                                     </div><!-- End .product-price -->
@@ -2658,7 +2658,7 @@
                             <div class="product product-2">
                                 <figure class="product-media">
                                     <span class="product-label label-circle label-top">Top</span>
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-11.jpg" alt="Product image" class="product-image">
                                     </a>
 
@@ -2676,7 +2676,7 @@
                                     <div class="product-cat">
                                         <a href="#">Laptops</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">MacBook Pro 13" Display, i5</a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">MacBook Pro 13" Display, i5</a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         $1,199.99
                                     </div><!-- End .product-price -->
@@ -2718,7 +2718,7 @@
                             <div class="product product-2">
                                 <figure class="product-media">
                                     <span class="product-label label-circle label-top">Top</span>
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-15.jpg" alt="Product image" class="product-image">
                                     </a>
 
@@ -2736,7 +2736,7 @@
                                     <div class="product-cat">
                                         <a href="#">TV & Home Theater</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">Samsung - 55" Class  LED 2160p Smart</a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">Samsung - 55" Class  LED 2160p Smart</a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         $899.99
                                     </div><!-- End .product-price -->
@@ -2752,7 +2752,7 @@
                             <div class="product product-2">
                                 <figure class="product-media">
                                     <span class="product-label label-circle label-top">Top</span>
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-11.jpg" alt="Product image" class="product-image">
                                     </a>
 
@@ -2770,7 +2770,7 @@
                                     <div class="product-cat">
                                         <a href="#">Laptops</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">MacBook Pro 13" Display, i5</a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">MacBook Pro 13" Display, i5</a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         $1,199.99
                                     </div><!-- End .product-price -->
@@ -2786,7 +2786,7 @@
                             <div class="product product-2">
                                 <figure class="product-media">
                                     <span class="product-label label-circle label-new">New</span>
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-13.jpg" alt="Product image" class="product-image">
                                     </a>
 
@@ -2804,7 +2804,7 @@
                                     <div class="product-cat">
                                         <a href="#">Tablets</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">Apple - 11 Inch iPad Pro  with Wi-Fi 256GB </a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">Apple - 11 Inch iPad Pro  with Wi-Fi 256GB </a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         $899.99
                                     </div><!-- End .product-price -->
@@ -2825,7 +2825,7 @@
 
                             <div class="product product-2">
                                 <figure class="product-media">
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-12.jpg" alt="Product image" class="product-image">
                                     </a>
 
@@ -2843,7 +2843,7 @@
                                     <div class="product-cat">
                                         <a href="#">Audio</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">Bose - SoundLink Bluetooth Speaker</a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">Bose - SoundLink Bluetooth Speaker</a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         $79.99
                                     </div><!-- End .product-price -->
@@ -2860,7 +2860,7 @@
                                 <figure class="product-media">
                                     <span class="product-label label-circle label-top">Top</span>
                                     <span class="product-label label-circle label-sale">Sale</span>
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-14.jpg" alt="Product image" class="product-image">
                                     </a>
 
@@ -2878,7 +2878,7 @@
                                     <div class="product-cat">
                                         <a href="#">Cell Phone</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">Google - Pixel 3 XL  128GB</a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">Google - Pixel 3 XL  128GB</a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         <span class="new-price">$35.41</span>
                                         <span class="old-price">Was $41.67</span>
@@ -2927,7 +2927,7 @@
                             <div class="product product-2">
                                 <figure class="product-media">
                                     <span class="product-label label-circle label-top">Top</span>
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-11.jpg" alt="Product image" class="product-image">
                                     </a>
 
@@ -2945,7 +2945,7 @@
                                     <div class="product-cat">
                                         <a href="#">Laptops</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">MacBook Pro 13" Display, i5</a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">MacBook Pro 13" Display, i5</a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         $1,199.99
                                     </div><!-- End .product-price -->
@@ -2960,7 +2960,7 @@
 
                             <div class="product product-2">
                                 <figure class="product-media">
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-12.jpg" alt="Product image" class="product-image">
                                     </a>
 
@@ -2978,7 +2978,7 @@
                                     <div class="product-cat">
                                         <a href="#">Audio</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">Bose - SoundLink Bluetooth Speaker</a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">Bose - SoundLink Bluetooth Speaker</a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         $79.99
                                     </div><!-- End .product-price -->
@@ -2994,7 +2994,7 @@
                             <div class="product product-2">
                                 <figure class="product-media">
                                     <span class="product-label label-circle label-new">New</span>
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-13.jpg" alt="Product image" class="product-image">
                                     </a>
 
@@ -3012,7 +3012,7 @@
                                     <div class="product-cat">
                                         <a href="#">Tablets</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">Apple - 11 Inch iPad Pro  with Wi-Fi 256GB </a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">Apple - 11 Inch iPad Pro  with Wi-Fi 256GB </a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         $899.99
                                     </div><!-- End .product-price -->
@@ -3034,7 +3034,7 @@
                             <div class="product product-2">
                                 <figure class="product-media">
                                     <span class="product-label label-circle label-top">Top</span>
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-15.jpg" alt="Product image" class="product-image">
                                     </a>
 
@@ -3052,7 +3052,7 @@
                                     <div class="product-cat">
                                         <a href="#">TV & Home Theater</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">Samsung - 55" Class  LED 2160p Smart</a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">Samsung - 55" Class  LED 2160p Smart</a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         $899.99
                                     </div><!-- End .product-price -->
@@ -3068,7 +3068,7 @@
                             <div class="product product-2">
                                 <figure class="product-media">
                                     <span class="product-label label-circle label-top">Top</span>
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-11.jpg" alt="Product image" class="product-image">
                                     </a>
 
@@ -3086,7 +3086,7 @@
                                     <div class="product-cat">
                                         <a href="#">Laptops</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">MacBook Pro 13" Display, i5</a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">MacBook Pro 13" Display, i5</a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         $1,199.99
                                     </div><!-- End .product-price -->
@@ -3103,7 +3103,7 @@
                                 <figure class="product-media">
                                     <span class="product-label label-circle label-top">Top</span>
                                     <span class="product-label label-circle label-sale">Sale</span>
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-14.jpg" alt="Product image" class="product-image">
                                     </a>
 
@@ -3121,7 +3121,7 @@
                                     <div class="product-cat">
                                         <a href="#">Cell Phone</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">Google - Pixel 3 XL  128GB</a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">Google - Pixel 3 XL  128GB</a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         <span class="new-price">$35.41</span>
                                         <span class="old-price">Was $41.67</span>
@@ -3171,7 +3171,7 @@
                                 <figure class="product-media">
                                     <span class="product-label label-circle label-top">Top</span>
                                     <span class="product-label label-circle label-sale">Sale</span>
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-14.jpg" alt="Product image" class="product-image">
                                     </a>
 
@@ -3189,7 +3189,7 @@
                                     <div class="product-cat">
                                         <a href="#">Cell Phone</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">Google - Pixel 3 XL  128GB</a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">Google - Pixel 3 XL  128GB</a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         <span class="new-price">$35.41</span>
                                         <span class="old-price">Was $41.67</span>
@@ -3212,7 +3212,7 @@
                             <div class="product product-2">
                                 <figure class="product-media">
                                     <span class="product-label label-circle label-top">Top</span>
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-11.jpg" alt="Product image" class="product-image">
                                     </a>
 
@@ -3230,7 +3230,7 @@
                                     <div class="product-cat">
                                         <a href="#">Laptops</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">MacBook Pro 13" Display, i5</a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">MacBook Pro 13" Display, i5</a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         $1,199.99
                                     </div><!-- End .product-price -->
@@ -3245,7 +3245,7 @@
 
                             <div class="product product-2">
                                 <figure class="product-media">
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-12.jpg" alt="Product image" class="product-image">
                                     </a>
 
@@ -3263,7 +3263,7 @@
                                     <div class="product-cat">
                                         <a href="#">Audio</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">Bose - SoundLink Bluetooth Speaker</a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">Bose - SoundLink Bluetooth Speaker</a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         $79.99
                                     </div><!-- End .product-price -->
@@ -3279,7 +3279,7 @@
                             <div class="product product-2">
                                 <figure class="product-media">
                                     <span class="product-label label-circle label-new">New</span>
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-13.jpg" alt="Product image" class="product-image">
                                     </a>
 
@@ -3297,7 +3297,7 @@
                                     <div class="product-cat">
                                         <a href="#">Tablets</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">Apple - 11 Inch iPad Pro  with Wi-Fi 256GB </a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">Apple - 11 Inch iPad Pro  with Wi-Fi 256GB </a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         $899.99
                                     </div><!-- End .product-price -->
@@ -3345,7 +3345,7 @@
                             <div class="product product-2">
                                 <figure class="product-media">
                                     <span class="product-label label-circle label-top">Top</span>
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-11.jpg" alt="Product image" class="product-image">
                                     </a>
 
@@ -3363,7 +3363,7 @@
                                     <div class="product-cat">
                                         <a href="#">Laptops</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">MacBook Pro 13" Display, i5</a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">MacBook Pro 13" Display, i5</a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         $1,199.99
                                     </div><!-- End .product-price -->
@@ -3379,7 +3379,7 @@
                             <div class="product product-2">
                                 <figure class="product-media">
                                     <span class="product-label label-circle label-top">Top</span>
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-15.jpg" alt="Product image" class="product-image">
                                     </a>
 
@@ -3397,7 +3397,7 @@
                                     <div class="product-cat">
                                         <a href="#">TV & Home Theater</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">Samsung - 55" Class  LED 2160p Smart</a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">Samsung - 55" Class  LED 2160p Smart</a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         $899.99
                                     </div><!-- End .product-price -->
@@ -3413,7 +3413,7 @@
                             <div class="product product-2">
                                 <figure class="product-media">
                                     <span class="product-label label-circle label-top">Top</span>
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-11.jpg" alt="Product image" class="product-image">
                                     </a>
 
@@ -3431,7 +3431,7 @@
                                     <div class="product-cat">
                                         <a href="#">Laptops</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">MacBook Pro 13" Display, i5</a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">MacBook Pro 13" Display, i5</a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         $1,199.99
                                     </div><!-- End .product-price -->
@@ -3446,7 +3446,7 @@
 
                             <div class="product product-2">
                                 <figure class="product-media">
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-12.jpg" alt="Product image" class="product-image">
                                     </a>
 
@@ -3464,7 +3464,7 @@
                                     <div class="product-cat">
                                         <a href="#">Audio</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">Bose - SoundLink Bluetooth Speaker</a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">Bose - SoundLink Bluetooth Speaker</a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         $79.99
                                     </div><!-- End .product-price -->
@@ -3480,7 +3480,7 @@
                             <div class="product product-2">
                                 <figure class="product-media">
                                     <span class="product-label label-circle label-new">New</span>
-                                    <a href="product.html">
+                                    <a href="product">
                                         <img src="assets/images/demos/demo-3/products/product-13.jpg" alt="Product image" class="product-image">
                                     </a>
 
@@ -3498,7 +3498,7 @@
                                     <div class="product-cat">
                                         <a href="#">Tablets</a>
                                     </div><!-- End .product-cat -->
-                                    <h3 class="product-title"><a href="product.html">Apple - 11 Inch iPad Pro  with Wi-Fi 256GB </a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product">Apple - 11 Inch iPad Pro  with Wi-Fi 256GB </a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         $899.99
                                     </div><!-- End .product-price -->

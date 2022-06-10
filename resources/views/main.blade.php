@@ -100,7 +100,7 @@
                                     <div class="product">
                                         <div class="product-cart-details">
                                             <h4 class="product-title">
-                                                <a href="product.html">Beige knitted elastic runner shoes</a>
+                                                <a href="product">Beige knitted elastic runner shoes</a>
                                             </h4>
 
                                             <span class="cart-product-info">
@@ -110,7 +110,7 @@
                                         </div><!-- End .product-cart-details -->
 
                                         <figure class="product-image-container">
-                                            <a href="product.html" class="product-image">
+                                            <a href="product" class="product-image">
                                                 <img src="assets/images/products/cart/product-1.jpg" alt="product">
                                             </a>
                                         </figure>
@@ -120,7 +120,7 @@
                                     <div class="product">
                                         <div class="product-cart-details">
                                             <h4 class="product-title">
-                                                <a href="product.html">Blue utility pinafore denim dress</a>
+                                                <a href="product">Blue utility pinafore denim dress</a>
                                             </h4>
 
                                             <span class="cart-product-info">
@@ -130,7 +130,7 @@
                                         </div><!-- End .product-cart-details -->
 
                                         <figure class="product-image-container">
-                                            <a href="product.html" class="product-image">
+                                            <a href="product" class="product-image">
                                                 <img src="assets/images/products/cart/product-2.jpg" alt="product">
                                             </a>
                                         </figure>
@@ -145,8 +145,8 @@
                                 </div><!-- End .dropdown-cart-total -->
 
                                 <div class="dropdown-cart-action">
-                                    <a href="cart.html" class="btn btn-primary">View Cart</a>
-                                    <a href="checkout.html" class="btn btn-outline-primary-2"><span>Checkout</span><i class="icon-long-arrow-right"></i></a>
+                                    <a href="cart" class="btn btn-primary">View Cart</a>
+                                    <a href="checkout" class="btn btn-outline-primary-2"><span>Checkout</span><i class="icon-long-arrow-right"></i></a>
                                 </div><!-- End .dropdown-cart-total -->
                             </div><!-- End .dropdown-menu -->
                         </div><!-- End .cart-dropdown -->
@@ -162,11 +162,11 @@
                         <nav class="main-nav">
                             <ul class="menu sf-arrows">
                                 <li class="megamenu-container active">
-                                    <a href="index.html" class="sf-with">Iphone</a>
+                                    <a href="category" class="sf-with">Iphone</a>
 
                                 </li>
                                 <li>
-                                    <a href="category.html" class="sf-with-ul text-nowrap">Điện thoại</a>
+                                    <a href="category" class="sf-with-ul text-nowrap">Điện thoại</a>
                                         
                                     <div class="megamenu megamenu-sm">
                                         <div class="row no-gutters">
@@ -174,10 +174,10 @@
                                                 <div class="menu-col">
                                                     <div class="menu-title">Sản phẩm Chi tiết</div><!-- End .menu-title -->
                                                     <ul>
-                                                        <li><a href="product.html">Samsung</a></li>
-                                                        <li><a href="product-centered.html">Xiaomi</a></li>
-                                                        <li><a href="product-extended.html"><span>Oppo<span class="tip tip-new">New</span></span></a></li>
-                                                        <li><a href="product-gallery.html">Nokia</a></li>
+                                                        <li><a href="product">Samsung</a></li>
+                                                        <li><a href="product">Xiaomi</a></li>
+                                                        <li><a href="product"><span>Oppo<span class="tip tip-new">New</span></span></a></li>
+                                                        <li><a href="product">Nokia</a></li>
                                                         
                                                     </ul>
                                                 </div><!-- End .menu-col -->
@@ -185,7 +185,7 @@
 
                                             <div class="col-md-6">
                                                 <div class="banner banner-overlay">
-                                                    <a href="category.html">
+                                                    <a href="category">
                                                         <img src="assets/images/menu/banner-2.jpg" alt="Banner">
 
                                                         <div class="banner-content banner-content-bottom">
@@ -200,7 +200,7 @@
              
                                 </li>
                                 <li>
-                                    <a href="product.html" class="sf-with text-nowrap">Mua Cũ</a>
+                                    <a href="product" class="sf-with text-nowrap">Mua Cũ</a>
 
                                 </li>
                                 <li>
@@ -212,10 +212,10 @@
                                                 <div class="menu-col">
                                                     <div class="menu-title">Sản phẩm Chi tiết</div><!-- End .menu-title -->
                                                     <ul>
-                                                        <li><a href="product.html">Samsung</a></li>
-                                                        <li><a href="product-centered.html">Xiaomi</a></li>
-                                                        <li><a href="product-extended.html"><span>Oppo<span class="tip tip-new">New</span></span></a></li>
-                                                        <li><a href="product-gallery.html">Nokia</a></li>
+                                                        <li><a href="product">Samsung</a></li>
+                                                        <li><a href="product">Xiaomi</a></li>
+                                                        <li><a href="product"><span>Oppo<span class="tip tip-new">New</span></span></a></li>
+                                                        <li><a href="product">Nokia</a></li>
                                                         
                                                     </ul>
                                                 </div><!-- End .menu-col -->
@@ -223,7 +223,7 @@
 
                                             <div class="col-md-6">
                                                 <div class="banner banner-overlay">
-                                                    <a href="category.html">
+                                                    <a href="category">
                                                         <img src="assets/images/menu/banner-2.jpg" alt="Banner">
 
                                                         <div class="banner-content banner-content-bottom">
@@ -236,12 +236,12 @@
                                     </div><!-- End .megamenu megamenu-sm -->
                                 </li>
                                 <li>
-                                    <a href="blog.html" class="sf-with text-nowrap">Tin tức công nghệ</a>
+                                    <a href="blog" class="sf-with text-nowrap">Tin tức công nghệ</a>
 
                                    
                                 </li>
                                 <li>
-                                    <a href="elements-list.html" class="sf-with text-nowrap">About us</a>
+                                    <a href="about" class="sf-with text-nowrap">About us</a>
 
                                    
                                 </li>
@@ -282,7 +282,7 @@
                 <nav class="mobile-nav">
                     <ul class="mobile-menu">
                         <li class="active">
-                            <a href="index.html">Home</a>
+                            <a href="index">Home</a>
 
                             <ul>
                                 <li><a href="index-1.html">01 - furniture store</a></li>
@@ -312,26 +312,26 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="category.html">Shop</a>
+                            <a href="category">Shop</a>
                             <ul>
                                 <li><a href="category-list.html">Shop List</a></li>
                                 <li><a href="category-2cols.html">Shop Grid 2 Columns</a></li>
-                                <li><a href="category.html">Shop Grid 3 Columns</a></li>
+                                <li><a href="category">Shop Grid 3 Columns</a></li>
                                 <li><a href="category-4cols.html">Shop Grid 4 Columns</a></li>
                                 <li><a href="category-boxed.html"><span>Shop Boxed No Sidebar<span class="tip tip-hot">Hot</span></span></a></li>
                                 <li><a href="category-fullwidth.html">Shop Fullwidth No Sidebar</a></li>
                                 <li><a href="product-category-boxed.html">Product Category Boxed</a></li>
                                 <li><a href="product-category-fullwidth.html"><span>Product Category Fullwidth<span class="tip tip-new">New</span></span></a></li>
-                                <li><a href="cart.html">Cart</a></li>
-                                <li><a href="checkout.html">Checkout</a></li>
+                                <li><a href="cart">Cart</a></li>
+                                <li><a href="checkout">Checkout</a></li>
                                 <li><a href="wishlist.html">Wishlist</a></li>
                                 <li><a href="#">Lookbook</a></li>
                             </ul>
                         </li>
                         <li>
-                            <a href="product.html" class="sf-with-ul">Product</a>
+                            <a href="product" class="sf-with-ul">Product</a>
                             <ul>
-                                <li><a href="product.html">Default</a></li>
+                                <li><a href="product">Default</a></li>
                                 <li><a href="product-centered.html">Centered</a></li>
                                 <li><a href="product-extended.html"><span>Extended Info<span class="tip tip-new">New</span></span></a></li>
                                 <li><a href="product-gallery.html">Gallery</a></li>
@@ -345,18 +345,18 @@
                             <a href="#">Pages</a>
                             <ul>
                                 <li>
-                                    <a href="about.html">About</a>
+                                    <a href="about">About</a>
 
                                     <ul>
-                                        <li><a href="about.html">About 01</a></li>
+                                        <li><a href="about">About 01</a></li>
                                         <li><a href="about-2.html">About 02</a></li>
                                     </ul>
                                 </li>
                                 <li>
-                                    <a href="contact.html">Contact</a>
+                                    <a href="contact">Contact</a>
 
                                     <ul>
-                                        <li><a href="contact.html">Contact 01</a></li>
+                                        <li><a href="contact">Contact 01</a></li>
                                         <li><a href="contact-2.html">Contact 02</a></li>
                                     </ul>
                                 </li>
@@ -367,10 +367,10 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="blog.html">Blog</a>
+                            <a href="blog">Blog</a>
 
                             <ul>
-                                <li><a href="blog.html">Classic</a></li>
+                                <li><a href="blog">Classic</a></li>
                                 <li><a href="blog-listing.html">Listing</a></li>
                                 <li>
                                     <a href="#">Grid</a>
@@ -408,13 +408,13 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="elements-list.html">Elements</a>
+                            <a href="about">Elements</a>
                             <ul>
                                 <li><a href="elements-products.html">Products</a></li>
                                 <li><a href="elements-typography.html">Typography</a></li>
                                 <li><a href="elements-titles.html">Titles</a></li>
                                 <li><a href="elements-banners.html">Banners</a></li>
-                                <li><a href="elements-product-category.html">Product Category</a></li>
+                                <li><a href="elements-product-category">Product Category</a></li>
                                 <li><a href="elements-video-banners.html">Video Banners</a></li>
                                 <li><a href="elements-buttons.html">Buttons</a></li>
                                 <li><a href="elements-accordions.html">Accordions</a></li>
@@ -510,11 +510,11 @@
 	            				<h4 class="widget-title">Useful Links</h4><!-- End .widget-title -->
 
 	            				<ul class="widget-list">
-	            					<li><a href="about.html">About Molla</a></li>
+	            					<li><a href="about">About Molla</a></li>
                                     <li><a href="#">Our Services</a></li>
 	            					<li><a href="#">How to shop on Molla</a></li>
 	            					<li><a href="faq.html">FAQ</a></li>
-	            					<li><a href="contact.html">Contact us</a></li>
+	            					<li><a href="contact">Contact us</a></li>
 	            				</ul><!-- End .widget-list -->
 	            			</div><!-- End .widget -->
 	            		</div><!-- End .col-sm-6 col-lg-3 -->
@@ -540,7 +540,7 @@
 
 	            				<ul class="widget-list">
 	            					<li><a href="#">Sign In</a></li>
-	            					<li><a href="cart.html">View Cart</a></li>
+	            					<li><a href="cart">View Cart</a></li>
 	            					<li><a href="#">My Wishlist</a></li>
 	            					<li><a href="#">Track My Order</a></li>
 	            					<li><a href="#">Help</a></li>

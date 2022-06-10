@@ -5,7 +5,7 @@
             <nav aria-label="breadcrumb" class="breadcrumb-nav border-0 mb-0">
                 <div class="container d-flex align-items-center">
                     <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                        <li class="breadcrumb-item"><a href="/">Home</a></li>
                         <li class="breadcrumb-item"><a href="#">Products</a></li>
                         <li class="breadcrumb-item active" aria-current="page">With Sidebar</li>
                     </ol>
@@ -244,13 +244,13 @@
                                     <div class="products">
                                         <div class="product product-sm">
                                             <figure class="product-media">
-                                                <a href="product.html">
+                                                <a href="product">
                                                     <img src="assets/images/products/single/sidebar/1.jpg" alt="Product image" class="product-image">
                                                 </a>
                                             </figure>
 
                                             <div class="product-body">
-                                                <h5 class="product-title"><a href="product.html">Light brown studded Wide fit wedges</a></h5><!-- End .product-title -->
+                                                <h5 class="product-title"><a href="product">Light brown studded Wide fit wedges</a></h5><!-- End .product-title -->
                                                 <div class="product-price">
                                                     <span class="new-price">$50.00</span>
                                                     <span class="old-price">$110.00</span>
@@ -260,13 +260,13 @@
 
                                         <div class="product product-sm">
                                             <figure class="product-media">
-                                                <a href="product.html">
+                                                <a href="product">
                                                     <img src="assets/images/products/single/sidebar/2.jpg" alt="Product image" class="product-image">
                                                 </a>
                                             </figure>
 
                                             <div class="product-body">
-                                                <h5 class="product-title"><a href="product.html">Yellow button front tea top</a></h5><!-- End .product-title -->
+                                                <h5 class="product-title"><a href="product">Yellow button front tea top</a></h5><!-- End .product-title -->
                                                 <div class="product-price">
                                                     $56.00
                                                 </div><!-- End .product-price -->
@@ -275,13 +275,13 @@
 
                                         <div class="product product-sm">
                                             <figure class="product-media">
-                                                <a href="product.html">
+                                                <a href="product">
                                                     <img src="assets/images/products/single/sidebar/3.jpg" alt="Product image" class="product-image">
                                                 </a>
                                             </figure>
 
                                             <div class="product-body">
-                                                <h5 class="product-title"><a href="product.html">Beige metal hoop tote bag</a></h5><!-- End .product-title -->
+                                                <h5 class="product-title"><a href="product">Beige metal hoop tote bag</a></h5><!-- End .product-title -->
                                                 <div class="product-price">
                                                     $50.00
                                                 </div><!-- End .product-price -->
@@ -290,13 +290,13 @@
 
                                         <div class="product product-sm">
                                             <figure class="product-media">
-                                                <a href="product.html">
+                                                <a href="product">
                                                     <img src="assets/images/products/single/sidebar/4.jpg" alt="Product image" class="product-image">
                                                 </a>
                                             </figure>
 
                                             <div class="product-body">
-                                                <h5 class="product-title"><a href="product.html">Black soft RI weekend travel bag</a></h5><!-- End .product-title -->
+                                                <h5 class="product-title"><a href="product">Black soft RI weekend travel bag</a></h5><!-- End .product-title -->
                                                 <div class="product-price">
                                                     $75.00
                                                 </div><!-- End .product-price -->
@@ -304,7 +304,7 @@
                                         </div><!-- End .product product-sm -->
                                     </div><!-- End .products -->
 
-                                    <a href="category.html" class="btn btn-outline-dark-3"><span>View More Products</span><i class="icon-long-arrow-right"></i></a>
+                                    <a href="category" class="btn btn-outline-dark-3"><span>View More Products</span><i class="icon-long-arrow-right"></i></a>
                                 </div><!-- End .widget widget-products -->
 
                                 <div class="widget widget-banner-sidebar">
