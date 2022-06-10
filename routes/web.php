@@ -11,3 +11,6 @@ Route::get('checkout', [HomeController::class, 'checkout'])->name('checkout');
 Route::get('category', [HomeController::class, 'category'])->name('category');
 Route::get('thankyou', [HomeController::class, 'thankyou'])->name('thankyou');
 Route::get('userinfo', [HomeController::class, 'userinfo'])->name('userinfo');
+Route::get('login', [HomeController::class, 'login'])->name('login');
+Route::get('userinfo', [HomeController::class, 'userinfo'])->name('userinfo');
+Route::get('userinfo', [HomeController::class, 'userinfo'])->name('userinfo');
