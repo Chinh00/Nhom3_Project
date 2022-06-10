@@ -48,7 +48,7 @@
 
                      
 
-                      <a href="{{Route('login')}}">Đăng nhập/Đăng ký</a>
+                      <a href="login">Đăng nhập/Đăng ký</a>
                             
                     </div><!-- End .header-right -->
 
@@ -63,7 +63,7 @@
                             <i class="icon-bars"></i>
                         </button>
                         
-                        <a href="{{Route('index')}}" class="logo">
+                        <a href="/" class="logo">
                             <img src="assets/images/demos/demo-3/logo.png" alt="Molla Logo" width="105" height="25">
                         </a>
                     </div><!-- End .header-left -->
