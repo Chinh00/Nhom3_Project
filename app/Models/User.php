@@ -21,7 +21,6 @@ class User extends Authenticatable
         'fullName',
         'userName',
         'email',
-        'password',
         'photo',
         'phone',
         'address',
