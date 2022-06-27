@@ -25,7 +25,7 @@ Route::post('registerSubmit',[\App\Http\Controllers\Customer\CustomerController:
 //login admin staff
 Route::get('admin',[\App\Http\Controllers\Admin\AdminController::class,'index'])->name('amdinlogin');
 Route::post('loginadmin',[\App\Http\Controllers\Admin\AdminController::class,'loginadmin'])->name('loginadmin');
-Route::post('admin',[\App\Http\Controllers\Admin\AdminController::class,'index'])->name('ca');
+Route::post('admin',[\App\Http\Controllers\Admin\AdminController::class,'LogoutAdmin'])->name('LogoutAdmin');
 
 Auth::routes();
 
