@@ -89,7 +89,7 @@
                                 <div class="form-group">
                                     <label for="register-fullName">Họ và tên *</label>
                                     <input type="text" class="form-control" id="register-fullName"  class="form-control @error('fullName') is-invalid @enderror" name="fullName" value="{{ old('fullName') }}" required autocomplete="fullName" autofocus>
-                                    @error('fullName')
+                                    @error('email')
                                     <span class="invalid-feedback" role="alert">
                                         <strong>{{ $message }}</strong>
                                         </span>

@@ -19,8 +19,19 @@
                 <div class="header-right">
 
 
+                        <a class="dropdown-item" href="{{ route('logout') }}"
+                           onclick="event.preventDefault();
+                                                         document.getElementById('logout-form').submit();">
+                            <i class="fas fa-power-off text-primary"></i>
+                            Logout
+                        </a>
 
-                    <a href="login">Đăng nhập/Đăng ký</a>
+                        <form id="logout-form" action="{{ route('logout') }}" method="POST" class="d-none">
+                            @csrf
+                        </form>
+
+                    <a href="{{route('userlogin')}}">Đăng nhập/Đăng ký</a>
+
 
                 </div><!-- End .header-right -->
 
