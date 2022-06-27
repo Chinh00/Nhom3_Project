@@ -17,7 +17,7 @@ class CustomerController extends Controller
      */
     public function customer()
     {
-        return view('frontend.index');
+        return view('index');
     }
     public function index()
     {
@@ -45,31 +45,40 @@ class CustomerController extends Controller
             'fullName'=>'required|max:255',
             'email' => 'required|email|unique:users',
             'password' => 'required|min:4'
-        ],[
-           'unique' => "Lỗi",
-            'required' => "Trường :attribute không được bỏ trống"
+            ],[
+                'unique'=>'Email da ton tai',
+                'required'=>'Thieu truong',
         ]);
+//        ],[
+//           'unique' => "Lỗi",
+//            'required' => "Trường :attribute không được bỏ trống"
+//        ]);
+
         $data = $request->all();
         $check = $this->create($data);
-
 
         if(Auth::attempt(['email'=>$request->email,'password'=>$request->password,'status'=>'active','role'=>'customer'])){
             if($check){
                 return redirect()->route('customer');
             }
             else{
+
                 return back()->with('error','Da ton tai tai khoan');
             };
-
         }
         else{
 
-        return back()->with('error','Co loi xay ra');
-        }
+            return back()->with('error','Sai thong tin dang nhap');
+        };
 
 
 
 
+    }
+
+    public function LogoutCustomer(){
+        Auth::logout();
+        return redirect()->route('index');
     }
 
 

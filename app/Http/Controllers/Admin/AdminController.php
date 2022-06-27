@@ -17,7 +17,7 @@ class AdminController extends Controller
     }
     public function loginadmin(Request $request){
 //        dd($request->all());
-        $this ->validate($request,[
+        $request ->validate([
             'email'=>'required|email',
             'password'=>'required|min:4'
         ]);

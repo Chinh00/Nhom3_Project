@@ -49,6 +49,8 @@ Route::group(['middleware'=>'auth'],function (){
 
     Route::group(['prefix'=>'customer','middleware'=>'is_customer'],function (){
         Route::get('/',[\App\Http\Controllers\Customer\CustomerController::class,'customer'])->name('customer');
+        Route::post('/',[\App\Http\Controllers\Customer\CustomerController::class,'LogoutCustomer'])->name('LogoutCustomer');
+
     });
 
 });

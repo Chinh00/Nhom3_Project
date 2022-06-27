@@ -32,27 +32,24 @@
                             <form action="{{route('loginSubmit')}}" method="POST">
                                 @csrf
                                 <div class="form-group">
-                                    <label for="singin-email-2">Username or email address *</label>
-                                    <input type="text" class="form-control" id="singin-email-2"  class="form-control @error('password') is-invalid @enderror" name="email" value="{{ old('email') }}" required autocomplete="email" autofocus>
+                                    <input type="email" class="form-control form-control-lg" id="exampleInputEmail1" @error('email') is-invalid @enderror" name="email" value="{{ old('email') }}" required autocomplete="email" autofocus placeholder="Username" >
                                     @error('email')
-                                    <span class="invalid-feedback" role="alert">
-                                        <strong>{{ $message }}</strong>
-                                        </span>
+                                    <span class="invalid-feedback mt-2" role="alert">
+                                        <strong class="text-danger">{{ $message }}</strong>
+                                    </span>
                                     @enderror
-                                </div><!-- End .form-group -->
-
+                                </div>
                                 <div class="form-group">
-                                    <label for="singin-password-2">Password *</label>
-                                    <input type="password" class="form-control" id="singin-password-2" class="form-control @error('password') is-invalid @enderror" name="password" required autocomplete="current-password">
+                                    <input type="password" class="form-control form-control-lg" id="exampleInputPassword1" placeholder="Password" @error('password') is-invalid @enderror" name="password" required autocomplete="current-password>
                                     @error('password')
-                                    <span class="invalid-feedback" role="alert">
-                                        <strong>{{ $message }}</strong>
-                                        </span>
+                                    <span class="invalid-feedback mt-2" role="alert">
+                                        <strong class="text-danger">{{ $message }}</strong>
+                                    </span>
                                     @enderror
-                                </div><!-- End .form-group -->
+                                </div>
 
                                 <div class="form-footer">
-                                    <button type="submit" class="btn btn-outline-primary-2">
+                                    <button type="submit" class="btn btn-outline-primary-2 mt-2">
                                         <span>LOG IN</span>
                                         <i class="icon-long-arrow-right"></i>
                                     </button>
@@ -84,39 +81,42 @@
                             </div><!-- End .form-choice -->
                         </div><!-- .End .tab-pane -->
                         <div class="tab-pane fade show active" id="register-2" role="tabpanel" aria-labelledby="register-tab-2">
+                            @include('backend.layouts.notification')
+
+
                             <form action="{{route('registerSubmit')}}" method="POST">
                                 @csrf
                                 <div class="form-group">
-                                    <label for="register-fullName">Họ và tên *</label>
-                                    <input type="text" class="form-control" id="register-fullName"  class="form-control @error('fullName') is-invalid @enderror" name="fullName" value="{{ old('fullName') }}" required autocomplete="fullName" autofocus>
-                                    @error('email')
+                                    <input type="text" class="form-control" id="register-fullName"  class="form-control @error('fullName') is-invalid @enderror" name="fullName" value="{{ old('fullName') }}" required autocomplete="fullName" autofocus autofocus placeholder="Họ và tên"  >
+                                    @error('fullName')
                                     <span class="invalid-feedback" role="alert">
-                                        <strong>{{ $message }}</strong>
-                                        </span>
-                                    @enderror
-                                </div><!-- End .form-group -->
-                                <div class="form-group">
-                                    <label for="register-email">Your email address *</label>
-                                    <input type="text" class="form-control" id="register-email"  class="form-control @error('email') is-invalid @enderror" name="email" value="{{ old('email') }}" required autocomplete="email" autofocus>
-                                    @error('email')
-                                    <span class="invalid-feedback" role="alert">
-                                        <strong>{{ $message }}</strong>
-                                        </span>
-                                    @enderror
-                                </div><!-- End .form-group -->
+                                        <strong class="text-danger">{{ $message }}</strong>
+                                    </span>
 
-                                <div class="form-group">
-                                    <label for="singin-password-2">Password *</label>
-                                    <input type="password" class="form-control" id="register-password" class="form-control @error('password') is-invalid @enderror" name="password" required autocomplete="current-password">
+                                    @enderror
+                                </div><!-- End .form-group -->
+                                <div class="form-group mt-2">
+                                    <input type="email" class="form-control form-control-lg" id="exampleInputEmail1" @error('email') is-invalid @enderror" name="email" value="{{ old('email') }}" required autocomplete="email" autofocus placeholder="Username" >
+                                    @foreach ($errors->all() as $error)
+                                        <strong class="text-danger">{{ $error }}</strong>
+                                    @endforeach
+                                    @error('email')
+                                    <span class="invalid-feedback" role="alert">
+                                        <strong class="text-danger">{{ $message }}</strong>
+                                    </span>
+                                    @enderror
+                                </div>
+                                <div class="form-group mt-2">
+                                    <input type="password" class="form-control form-control-lg" id="exampleInputPassword1" placeholder="Password" @error('password') is-invalid @enderror" name="password" required autocomplete="current-password>
                                     @error('password')
                                     <span class="invalid-feedback" role="alert">
-                                        <strong>{{ $message }}</strong>
-                                        </span>
+                                        <strong class="text-danger">{{ $message }}</strong>
+                                    </span>
                                     @enderror
-                                </div><!-- End .form-group -->
+                                </div>
 
-                                <div class="form-footer">
-                                    <button type="submit" class="btn btn-outline-primary-2">
+                                <div class="form-footer mt-5">
+                                    <button type="submit" class="btn btn-outline-primary-2 mt-2">
                                         <span>SIGN UP</span>
                                         <i class="icon-long-arrow-right"></i>
                                     </button>

@@ -18,8 +18,8 @@
 
                 <div class="header-right">
 
-
-                        <a class="dropdown-item" href="{{ route('logout') }}"
+                    @if(Auth::user())
+                        <a class="dropdown-item" href="{{ route('LogoutCustomer') }}"
                            onclick="event.preventDefault();
                                                          document.getElementById('logout-form').submit();">
                             <i class="fas fa-power-off text-primary"></i>
@@ -29,8 +29,10 @@
                         <form id="logout-form" action="{{ route('logout') }}" method="POST" class="d-none">
                             @csrf
                         </form>
+                    @else
 
                     <a href="{{route('userlogin')}}">Đăng nhập/Đăng ký</a>
+                        @endif
 
 
                 </div><!-- End .header-right -->
