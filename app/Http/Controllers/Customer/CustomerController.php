@@ -49,10 +49,6 @@ class CustomerController extends Controller
                 'unique'=>'Email da ton tai',
                 'required'=>'Thieu truong',
         ]);
-//        ],[
-//           'unique' => "Lỗi",
-//            'required' => "Trường :attribute không được bỏ trống"
-//        ]);
 
         $data = $request->all();
         $check = $this->create($data);

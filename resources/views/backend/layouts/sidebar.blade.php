@@ -43,7 +43,7 @@
                 <span class="menu-title">Dashboard</span>
             </a>
         </li>
-
+        @if(\Illuminate\Support\Facades\Auth::user()->role =='admin')
         <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#page-layouts" aria-expanded="false" aria-controls="page-layouts">
                 <i class="fab fa-trello menu-icon"></i>
@@ -56,6 +56,6 @@
                 </ul>
             </div>
         </li>
-
+        @endif
     </ul>
 </nav>
