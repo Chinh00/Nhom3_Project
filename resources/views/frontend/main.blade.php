@@ -19,16 +19,22 @@
                 <div class="header-right">
 
                     @if(Auth::user())
-                        <a class="dropdown-item" href="{{ route('LogoutCustomer') }}"
-                           onclick="event.preventDefault();
-                                                         document.getElementById('logout-form').submit();">
-                            <i class="fas fa-power-off text-primary"></i>
-                            Logout
-                        </a>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">{{auth()->user()->fullName}} <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li class="dropdown-item fs-4" style="font-size: 1.2rem">Setting</li>
 
-                        <form id="logout-form" action="{{ route('logout') }}" method="POST" class="d-none">
-                            @csrf
-                        </form>
+                                <li><a class="dropdown-item " style="font-size: 1.2rem" href="{{ route('LogoutCustomer') }}"
+                                       onclick="event.preventDefault();
+                             document.getElementById('logout-form').submit();">
+                                        <i class="fas fa-power-off text-primary text-xl-center-center" ></i>
+                                        Logout
+                                    </a>
+
+                                    <form id="logout-form" action="{{ route('logout') }}" method="POST" class="d-none">
+                                        @csrf
+                                    </form>
+                                </li>
                     @else
 
                     <a href="{{route('userlogin')}}">Đăng nhập/Đăng ký</a>
