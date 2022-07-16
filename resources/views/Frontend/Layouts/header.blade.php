@@ -7,7 +7,32 @@
                 </div><!-- End .header-left -->
 
                 <div class="header-right">
-                    <a href="login" style="font-size: 1.6rem">Đăng nhập / Đăng ký</a>
+             
+                    @if(Auth::user())
+                    <div class="header-dropdown">
+                        <a href="#" style="font-family:'cursive';font-size:1.6rem"><i class="fa-solid fa-user mx-2" > </i>{{ Auth::user()->fullName }}
+                        </a>
+                        <div class="header-menu">
+                            <ul>
+                                <li><a class="dropdown-item" style="font-size: 1.6rem" href="{{ route('LogoutCustomer') }}"
+                                    onclick="event.preventDefault();
+                                                                  document.getElementById('logout-form').submit();">
+                                     <i class="fas fa-power-off text-primary"></i>
+                                     Logout
+                                 </a></a></li>
+                     
+                            </ul>
+                        </div><!-- End .header-menu -->
+                    </div>
+                    
+
+                    <form id="logout-form" action="{{ route('logout') }}" method="POST" class="d-none">
+                        @csrf
+                    </form>
+                @else
+
+                <a href="/login" style="font-size: 1.6rem">Đăng nhập/Đăng ký</a>
+                    @endif
                 </div><!-- End .header-right -->
 
             </div><!-- End .container -->

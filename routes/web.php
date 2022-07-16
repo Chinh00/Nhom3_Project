@@ -20,7 +20,7 @@ use App\Http\Controllers\HomeController;
 |
 */
 Auth::routes();
-Route::get('/', [HomeController::class, 'index']);
+Route::get('/', [HomeController::class, 'index'])->name('index');
 Route::get('/category', function () {
     return view('Frontend.Pages.categories');
 });
@@ -33,10 +33,17 @@ Route::get('/cart', function () {
 Route::get('/login', function () {
     return view('Frontend.Pages.login');
 });
+Route::get('/register', function () {
+    return view('Frontend.Pages.register');
+});
 Route::get('/checkout', function () {
     return view('Frontend.Pages.checkout');
 });
-
+// Customer Pages
+Route::get('userlogin',[\App\Http\Controllers\Customer\CustomerController::class,'index'])->name('userlogin');
+Route::post('loginSubmit',[\App\Http\Controllers\Customer\CustomerController::class,'loginSubmit'])->name('loginSubmit');
+Route::post('registerSubmit',[\App\Http\Controllers\Customer\CustomerController::class,'registerSubmit'])->name('registerSubmit');
+Route::post('/',[\App\Http\Controllers\Customer\CustomerController::class,'LogoutCustomer'])->name('LogoutCustomer');
 //Pages Admin
 Route::prefix('/admin')->group(function(){
     //Login logout admin
