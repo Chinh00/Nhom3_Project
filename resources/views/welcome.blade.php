@@ -163,7 +163,7 @@
                         @foreach($new as $key)
                             <div class="product product-2">
                                 <figure class="product-media">
-                                    <a href="product.html">
+                                    <a href="product/{{ $key->id }}">
                                         <img src="{{asset('Images/Product-images/' .$key->image_link)}}" alt="Product image" class="product-image" style="height: 20rem;width:15rem">
                                     </a>
 
@@ -178,7 +178,7 @@
                                 </figure><!-- End .product-media -->
 
                                 <div class="product-body">
-                                    <h3 class="product-title"><a href="product.html"><b>{{$key->name}}</b></a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product/{{ $key->id }}"><b>{{$key->name}}</b></a></h3><!-- End .product-title -->
                                     <div class="product-price text-danger">
                                         @if($key->offer_price != $key->price)
                                             <del>{{number_format($key->price)}} </del><sup>đ</sup>
@@ -222,7 +222,7 @@
                         @foreach($sale as $key)
                             <div class="product product-2">
                                 <figure class="product-media">
-                                    <a href="product.html">
+                                    <a href="product/{{ $key->id }}">
                                         <img src="{{asset('Images/Product-images/' .$key->image_link)}}" alt="Product image" class="product-image " style="height: 20rem;width:15rem">
                                     </a>
 
@@ -237,7 +237,7 @@
                                 </figure><!-- End .product-media -->
 
                                 <div class="product-body">
-                                    <h3 class="product-title"><a href="product.html">{{$key->name}}</a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product/{{ $key->id }}">{{$key->name}}</a></h3><!-- End .product-title -->
                                     <div class="product-price text-danger">
                                         @if($key->offer_price != $key->price)
                                             <del>{{number_format($key->price)}} </del><sup>đ</sup>
@@ -283,7 +283,7 @@
                         @foreach($ratings as $key)
                             <div class="product product-2">
                                 <figure class="product-media">
-                                    <a href="product.html">
+                                    <a href="product/{{ $key->id }}">
                                         <img src="{{asset('Images/Product-images/' .$key->image_link)}}" alt="Product image" class="product-image" style="height: 20rem;width:15rem">
                                     </a>
 
@@ -298,7 +298,7 @@
                                 </figure><!-- End .product-media -->
 
                                 <div class="product-body">
-                                    <h3 class="product-title"><a href="product.html">{{$key->name}}</a></h3><!-- End .product-title -->
+                                    <h3 class="product-title"><a href="product/{{ $key->id }}">{{$key->name}}</a></h3><!-- End .product-title -->
                                     <div class="product-price">
                                         @if($key->offer_price != $key->price)
                                             <del>{{number_format($key->price)}} </del><sup>đ</sup>
@@ -456,6 +456,7 @@
                                     
                                 </div><!-- End .product-cat -->
                                 <h3 class="product-title"><a href="product/{{ $proInfo->id }}">{{ $proInfo->name }}</a></h3><!-- End .product-title -->
+                
                                 <div class="product-price">
                                     @if($proInfo->offer_price != $proInfo->price)
                                         <del>{{number_format($proInfo->price)}} </del><sup>đ</sup>
