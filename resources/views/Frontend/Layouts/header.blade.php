@@ -22,7 +22,7 @@
                     </button>
 
                     <a href="/" class="logo">
-                        <img src="assets/images/demos/demo-3/logo.png" alt="Molla Logo" width="105" height="25">
+                        <img src="{{ asset('frontend/assets/images/demos/demo-3/logo.png') }}" alt="Molla Logo" width="105" height="25">
                     </a>
                 </div><!-- End .header-left -->
 
@@ -103,8 +103,8 @@
                             </div><!-- End .dropdown-cart-total -->
 
                             <div class="dropdown-cart-action">
-                                <a href="cart.html" class="btn btn-primary">View Cart</a>
-                                <a href="checkout.html" class="btn btn-outline-primary-2"><span>Checkout</span><i class="icon-long-arrow-right"></i></a>
+                                <a href="cart" class="btn btn-primary">View Cart</a>
+                                <a href="checkout" class="btn btn-outline-primary-2"><span>Checkout</span><i class="icon-long-arrow-right"></i></a>
                             </div><!-- End .dropdown-cart-total -->
                         </div><!-- End .dropdown-menu -->
                     </div><!-- End .cart-dropdown -->
@@ -130,13 +130,13 @@
                                     <div class="row no-gutters">
                                         <div class="col-md-6">
                                             <div class="menu-col">
-                                                
-                                                    
-                                            @foreach($home_categories as $key)
                                             @php
                                             $conn = DB::table('categories')->where('parent_id','=', 16)->get();
-                                        
-                                             @endphp
+                                            $home_categories = DB::table('home_categories')->join('categories', 'home_categories.category_id', '=', 'categories.id')->get();
+                                                @endphp
+                                                    
+                                            @foreach($home_categories as $key)
+                                           
                                             <div class="menu-title">
                                                 {{$key->title}}
                                             </div><!-- End .menu-title -->

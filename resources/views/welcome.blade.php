@@ -386,16 +386,11 @@
 
                 <div class="heading-right">
                     <ul class="nav nav-pills nav-border-anim justify-content-center" role="tablist">
-    
-                        @php
-                        $conn = DB::table('categories')->where('parent_id','=', 16)->orWhere('parent_id','=', 21)->get();
-                    
-                         @endphp
                                             
-                            @foreach($conn as $value)
-                            <li class="nav-item">
+                            @foreach($childCate as $value)
+                            <li class="nav-item ">
                                                                
-                                    <a class="nav-link" id="top-{{$value->title}}-link" data-toggle="tab" href="#top-{{$value->title}}-tab" role="tab" aria-controls="#top-{{$value->title}}-tab" aria-selected="false">{{$value->title}}</a>
+                                    <a class="nav-link {{$value->id == 17 ? 'active' : ''}}" id="top-{{$value->title}}-link" data-toggle="tab" href="#top-{{$value->title}}-tab" role="tab" aria-controls="#top-{{$value->title}}-tab" aria-selected="false">{{$value->title}}</a>
                             </li>
 
                             @endforeach
@@ -404,8 +399,10 @@
                 </div><!-- End .heading-right -->
             </div><!-- End .heading -->
             <div class="tab-content tab-content-carousel just-action-icons-sm">
-                @foreach($product_categories as $key)
-                <div class="tab-pane p-0 fade show active" id="top-{{\App\Models\Categories::where('id',$key->category_id)->value('title')}}-tab" role="tabpanel" aria-labelledby="top-{{\App\Models\Categories::where('id',$key->category_id)->value('title')}}-link">
+
+
+                @foreach($childCate as $key)
+                <div class="tab-pane p-0 fade show {{$value->id == 17 ? 'active' : ''}}" id="top-{{ $key->title }}-tab" role="tabpanel" aria-labelledby="top-{{ $key->title }}-link">
                     <div class="owl-carousel owl-full carousel-equal-height carousel-with-shadow" data-toggle="owl"
                          data-owl-options='{
                                 "nav": true,
@@ -430,13 +427,16 @@
                                     }
                                 }
                             }'>
+                        @foreach ($product_info as $proInfo )
+                        @if ($proInfo->category_id == $key->id)
+                            
                         
                         <div class="product product-2">
                             <figure class="product-media">
                                 <span class="product-label label-circle label-top">Top</span>
-                                <a href="/product/{{ $key->id }}">
-                                    <img src="{{asset('Images/Product-images/' .$key->image_link)}}" alt="Product image" class="product-image">
-                                  
+                                <a href="/product/{{ $proInfo->id }}">
+                                    <img src="{{asset('Images/Product-images/' .$proInfo->image_link)}}" alt="Product image" class="product-image">
+                                
                                 </a>
 
                                 <div class="product-action-vertical">
@@ -451,22 +451,24 @@
         
                             <div class="product-body">
                                 <div class="product-cat">
-                                                                           
-                                    <a href="/category/{{\App\Models\Categories::where('id',$key->category_id)->value('id')}}">{{\App\Models\Categories::where('id',$key->category_id)->value('title')}}</a>
+                                                                        
+                                    <a href="/category/{{ $proInfo->category_id }}">{{ $proInfo->title }}</a>
                                     
                                 </div><!-- End .product-cat -->
-                                <h3 class="product-title"><a href="product/{{ $key->id }}">{{ $key->name }}</a></h3><!-- End .product-title -->
+                                <h3 class="product-title"><a href="product/{{ $proInfo->id }}">{{ $proInfo->name }}</a></h3><!-- End .product-title -->
                                 <div class="product-price">
-                                    {{ $key->price }}
+                                    {{ $proInfo->price }}
                                 </div><!-- End .product-price -->
                                 <div class="ratings-container">
                                     <div class="ratings">
                                         <div class="ratings-val" style="width: 100%;"></div><!-- End .ratings-val -->
                                     </div><!-- End .ratings -->
-                                    <span class="ratings-text">( {{ $key->ratings }} )</span>
+                                    <span class="ratings-text">( {{ $proInfo->ratings }} )</span>
                                 </div><!-- End .rating-container -->
                             </div><!-- End .product-body -->
                         </div><!-- End .product -->
+                        @endif
+                        @endforeach
                         
 
                     </div><!-- End .owl-carousel -->

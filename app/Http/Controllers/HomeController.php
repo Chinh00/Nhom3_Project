@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Categories;
 use Illuminate\Support\Facades\DB;
 
 class HomeController extends Controller
@@ -27,8 +28,12 @@ class HomeController extends Controller
         $new = DB::table('products')->take(5)->join('product_images', 'products.id', '=', 'product_images.product_id')->orderBy('products.id', 'DESC')->get();
         $sale = DB::table('products')->take(5)->join('product_images', 'products.id', '=', 'product_images.product_id')->whereNot('discount_id', '=', null)->orderBy('offer_price', 'ASC')->get();
         $ratings = DB::table('products')->take(5)->join('product_images', 'products.id', '=', 'product_images.product_id')->orderBy('ratings', 'DESC')->get();
-        $product_categories = DB::table('products')->join('product_images', 'products.id', '=', 'product_images.product_id')->get();
-        return view('welcome', compact('home_categories', 'new', 'sale', 'ratings','product_categories'));
+        $childCate = DB::table('categories')->where('parent_id','<>',0)->get()->toArray();
+        $product_info = DB::table('products')->take(10)->join('categories','products.category_id','=','categories.id')->join('product_images', 'products.id', '=', 'product_images.product_id')->get();
+        // dd($childCate);
+        return view('welcome', compact('home_categories', 'new', 'sale', 'ratings','childCate','product_info'));
     }
+
+    
   
 }
