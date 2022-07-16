@@ -30,7 +30,7 @@ class HomeController extends Controller
         $ratings = DB::table('products')->take(5)->join('product_images', 'products.id', '=', 'product_images.product_id')->orderBy('ratings', 'DESC')->get();
         $childCate = DB::table('categories')->where('parent_id','<>',0)->get()->toArray();
         $product_info = DB::table('products')->take(10)->join('categories','products.category_id','=','categories.id')->join('product_images', 'products.id', '=', 'product_images.product_id')->get();
-        // dd($childCate);
+        // dd($product_info);
         return view('welcome', compact('home_categories', 'new', 'sale', 'ratings','childCate','product_info'));
     }
 

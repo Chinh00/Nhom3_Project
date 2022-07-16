@@ -457,8 +457,12 @@
                                 </div><!-- End .product-cat -->
                                 <h3 class="product-title"><a href="product/{{ $proInfo->id }}">{{ $proInfo->name }}</a></h3><!-- End .product-title -->
                                 <div class="product-price">
-                                    {{ $proInfo->price }}
+                                    @if($proInfo->offer_price != $proInfo->price)
+                                        <del>{{number_format($proInfo->price)}} </del><sup>đ</sup>
+                                        <pre></pre>
+                                    @endif
                                 </div><!-- End .product-price -->
+                                <div class="product-price text-danger"><div>{{number_format($proInfo->offer_price)}} <sup>đ</sup></div></div>
                                 <div class="ratings-container">
                                     <div class="ratings">
                                         <div class="ratings-val" style="width: 100%;"></div><!-- End .ratings-val -->
